@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, whirled!\ttabs!");
+    println!("Hello, whirled!\ttabs!\nand newlines!");
 }
